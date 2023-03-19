@@ -21,7 +21,7 @@ import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
 
 class searchActivity : AppCompatActivity() {
-    private var recyclerView : RecyclerView? = null
+    private var recyclerView : RecyclerView? = nullkejfgwjefgwefgweg
     private var userAdapter : SearchAdapter? = null
     private var mUser : MutableList<User>? = null
     override fun onCreate(savedInstanceState: Bundle?) {
